@@ -1,0 +1,1 @@
+# walletconnect-mobile-registry
