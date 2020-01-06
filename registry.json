@@ -12,5 +12,12 @@
     "universalLink": "https://rainbow.me",
     "deepLink": "rainbow:",
     "chromeIntent": ""
+  },
+  {
+    "name": "Gnosis Safe",
+    "color": "#008c73",
+    "universalLink": "https://safe.gnosis.io/walletconnect",
+    "deepLink": "gnosissafe:",
+    "chromeIntent": ""
   }
 ]
